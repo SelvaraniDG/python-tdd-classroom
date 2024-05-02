@@ -1,4 +1,3 @@
-
 import unittest
 from src.string_exercise import StringExercise
 
